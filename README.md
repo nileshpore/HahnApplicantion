@@ -2,8 +2,10 @@
 
 ### How to execute?
 1. Download and extract the zip file.
-2. Open command prompt with path of "Hahn.ApplicationProcess.December2020.Web""folder.
+2. Open command prompt with path of "Hahn.ApplicationProcess.December2020.Web" folder.
 3. Run command dotnet restore
+4. Navigate to folder ClientApp and execute command npm install (To Install Node Packages)
+5. Come back one step to "Hahn.ApplicationProcess.December2020.Web""folder.
 4. Run command dotnet run
 
 
