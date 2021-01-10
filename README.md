@@ -22,11 +22,11 @@
 3. Exception handling with middleware
 4. More functionality and better UI.
 5. More on aurelia template binding and different use cases.
-6. .Net5 feature explore and use.
+6. .Net5 new feature to explore more and use.
 
 
 ### My Experience
-1. Aurelia is major peace, its interesting, easy and powerful js framework.
+1. Aurelia is major leaning part for me, its interesting, easy and powerful js framework.
 2. New project setup .Net5/aurelia was bit time consuming for me.
 3. webpack - its kind of new WCF..lots of configuration...make developers life hell.
 4. Overall enjoyed doing this assignment.
