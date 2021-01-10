@@ -5,8 +5,8 @@
 2. Open command prompt with path of "Hahn.ApplicationProcess.December2020.Web" folder.
 3. Run command dotnet restore
 4. Navigate to folder ClientApp and execute command npm install (To Install Node Packages)
-5. Come back one step to "Hahn.ApplicationProcess.December2020.Web""folder.
-4. Run command dotnet run
+5. Come back one step to "Hahn.ApplicationProcess.December2020.Web""folder. (cd..)
+6. Run command dotnet run (sometime aurelia cli wont respond in timely fashon, need to stop and run application again)
 
 
 ### About Implementation Wiki
